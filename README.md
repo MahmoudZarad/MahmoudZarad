@@ -8,6 +8,12 @@
 
 ## 🚀 About Me
 
+<p align="center">
+  <a href="https://github.com/MahmoudZarad/Mahmoud_Abdo_CV/blob/main/Mahmoud_Abdo_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-1F6FEB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
 - Backend-focused engineer passionate about building scalable and maintainable systems.
 - Strong foundation in **Data Structures, Algorithms, OOP, and System Design**.
 - Experienced in building real-world systems like:

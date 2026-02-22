@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <a href="https://github.com/MahmoudZarad/Mahmoud_Abdo_CV.pdf">
+  <a href="https://github.com/MahmoudZarad/MahmoudZarad/blob/main/Mahmoud_Abdo_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-1F6FEB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
